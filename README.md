@@ -6,7 +6,7 @@ Leitura de veículos por faixa para a alteração do tempo de sinal vermelho a f
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/emiletaise/semaforoInteligente.git
+$ git clone https://github.com/emiletaise/semaforoInteligente-threads.git
 
 # Entre na pasta do projeto
 $ cd semaforoInteligente
