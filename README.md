@@ -11,9 +11,6 @@ $ git clone https://github.com/emiletaise/semaforoInteligente.git
 # Entre na pasta do projeto
 $ cd semaforoInteligente
 
-# Instale as dependências
-$ pip3 install -r requirements.txt
-
 # Execução
 
 Execute o arquivo main.py
