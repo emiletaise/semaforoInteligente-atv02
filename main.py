@@ -17,8 +17,6 @@ def main():
     #Escolher a forma de inserção dos veículos nas faixas:
     randomico = True
 
-    #PARA AVALIAÇÃO 2 - CRIAÇÃO DE FAIXA EM UM SISTEMA DE BAIXA COMPLEXIDADE
-
     # cenario_um_random(agenteTransito, randomico)
 
 #CENÁRIOS PARA AVALIAÇÃO 2:
